@@ -11,7 +11,7 @@ $(document).ready(function() {
     // Send the request  
    
     request = $.ajax({
-        url: 'http://apilayer.net/api/validate',
+        url: 'https://apilayer.net/api/validate',
         type: "GET",
         data: {  
           access_key:'1fd83af9dea643ebd5eeb1f4ef098b90',
